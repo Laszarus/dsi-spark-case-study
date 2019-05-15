@@ -5,13 +5,13 @@ In 2017, Emanuel Macron and Marie Le Penn were the final two candidates in the F
 <a href="https://s3.us-east-2.amazonaws.com/jgartner-test-data/twitter/zippedData.zip">The data</a> you are provided a line delimited json file (746 MB) of tweets from France during that time period.  Your task is to leverage your understanding of Spark, visualization, and feature engineering to explore the dataset and provide answers to some basic questions.  
 
 # Your Task
-You and your partner will have the task of reading in, cleaning, and exploring this dataset.  Your job is to gain insight into what is happening during the time period.  Your task for today is to produce the following:
+You and your team will have the task of reading in, cleaning, and exploring this dataset.  Your job is to gain insight into what is happening during the time period.  Your task for today is to produce the following:
 
 1. A python script containing helper functions.
 You should be working toward transforming this large cumbersome dataset into something that is regular and easily digestible.  You need to find inconsistencies in the data, and try to think about how you would clean them.  You can do cleaning in data as they are RDDs, DataFrames, or ideally both, but the processes should be calling function that are reusable.
 
 2. A presentation about your choices.
-At 5 pm, you'll stop work and get together as a class to present your findings.  You can either choose to use slides, or jupyter notebooks.  The latter might be nice, because you may want to highlight bits of code.
+At 4:30 pm, you'll stop work and get together as a class to present your findings.  You can either choose to use slides, or jupyter notebooks.  The latter might be nice, because you may want to highlight bits of code.
 
 
 ## Hints
