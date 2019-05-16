@@ -11,7 +11,7 @@ You and your team will have the task of reading in, cleaning, and exploring this
 You should be working toward transforming this large cumbersome dataset into something that is regular and easily digestible.  You need to find inconsistencies in the data, and try to think about how you would clean them.  You can do cleaning in data as they are RDDs, DataFrames, or ideally both, but the processes should be calling function that are reusable.
 
 2. A presentation about your choices.
-At 4:30 pm, you'll stop work and get together as a class to present your findings.  You can either choose to use slides, or jupyter notebooks.  The latter might be nice, because you may want to highlight bits of code.
+At 4:30 pm, you'll stop work and get together as a class to present your findings.  For the presentation, please make sure that you and your team spend time developing slides.  This is the most complete and coherent way to present your findings.  The slides should not contain any code.
 
 
 ## Hints
